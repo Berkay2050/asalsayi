@@ -1,2 +1,0 @@
-# asalsayi
-Asal sayı bulabilme
